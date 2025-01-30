@@ -1,1 +1,0 @@
-# Staticwebsite-Terraform-Deployed
