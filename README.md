@@ -1,8 +1,7 @@
 **Static Portfolio Website with Terraform on AWS**
 Welcome to my portfolio project! This project demonstrates my ability to deploy a static website using AWS S3 with infrastructure managed through Terraform.
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/rajatrajat0210/Staticwebsite-Terraform-Deployed/blob/main/aws_staticwebsite.jpg?raw=true)
+![image alt](https://github.com/rajatrajat0210/Staticwebsite-Terraform-Deployed/blob/main/aws_bucket_objects.jpg?raw=true)
 
 # Static Portfolio Website with Terraform on AWS
 
